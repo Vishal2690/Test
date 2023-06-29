@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin : 0;
+}
+
+.mainroot {
+    background-color: rgb(103, 118, 118);
+    width: 90vw;
+    margin: 40px 50px;
+    height: 500px;
+    overflow: scroll;
+    border-radius: 10px;
+}
+
+#allListContainer {
+    padding: 30px;
+}
+
+#allListContainer li {
+    padding-top     : 4px;
+    height          : 30px;
+    background-color: rgb(166, 175, 181);
+    margin          : 30px;
+    color           : white;
+
+}
+
+#All-btn{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#btn1 {
+    width           : 150px;
+    height          : 40px;
+    border-radius   : 9px;
+    border          : none;
+    background-color: rgb(11, 240, 53);
+    color           : wheat;
+    font-size       : 19px;
+}
+
+#btn2 {
+    width           : 150px;
+    height          : 40px;
+    border-radius   : 9px;
+    border          : none;
+    background-color: rgb(11, 240, 53);
+    color           : wheat;
+    font-size       : 19px;
+
+}
